@@ -1,0 +1,15 @@
+{
+    "name": "hame/hexlet",
+    "autoload": {
+        "psr-4": {
+            "Hame\\Hexlet\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hex",
+            "email": "hexlet@ry.io"
+        }
+    ],
+    "require": {}
+}
